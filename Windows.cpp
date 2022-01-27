@@ -1,5 +1,5 @@
 #include "content.h"
 
-//urmom looks kinda hot tho ngl
+//Yes
 
 printf("Fortnite");
